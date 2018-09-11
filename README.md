@@ -1,5 +1,7 @@
 # Business Development Challenge
 
+## This challenge is due at 1800 HRS EAT on 12th September 2018
+
 In this challenge:
 
 1. Describe an instance where your entrepreneurship skills helped you solve a problem. (Not less than 500 words)
@@ -23,3 +25,5 @@ Here's a link to the document: https://goo.gl/sLPsAo
 
 ## Get Support from the Africa's Talking Slack
 In case you have any questions, join our Slack [here](https://slackin-africastalking.now.sh/)
+
+## Submissions later than 1800 HRS EAT on 12th September 2018 will not be considered.
