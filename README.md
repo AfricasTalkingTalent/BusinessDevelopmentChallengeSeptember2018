@@ -16,7 +16,7 @@ In this challenge:
 
 3. After completing the challenge, name your repository with your name and phone number eg. MarionShako2547888888
 
-4. Share your document with rochieng@africastalking.com, anthony.kiplimo@africastalking.com,mohammed.pangani@africastalking.com.
+4. Share your document with rochieng@africastalking.com, anthony.kiplimo@africastalking.com,ewainaina@africastalking.com.
 
 
 ### Resources
