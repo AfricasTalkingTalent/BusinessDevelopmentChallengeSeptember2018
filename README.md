@@ -10,18 +10,18 @@ In this challenge:
 
 
 ### Workflow:
-1. Create a copy of the document in the link provided on the challenge description.
+1. Write your responses on a document and export it as a PDF when you're done.
 
-2. Add a new tab in the document which holds your solution to the challenge.
+2.Feel free to write as much as you want, be creative and let us know as much as you think would be useful.
 
-3. After completing the challenge, name your repository with your name and phone number eg. MarionShako2547888888
+3. After completing the challenge, name your document with your name and phone number eg. MarionShako2547888888
 
 4. Share your document with rochieng@africastalking.com, anthony.kiplimo@africastalking.com,ewainaina@africastalking.com.
 
 
 ### Resources
 
-Here's a link to the document: https://goo.gl/sLPsAo
+Your mind power!
 
 ## Get Support from the Africa's Talking Slack
 In case you have any questions, join our Slack [here](https://slackin-africastalking.now.sh/)
